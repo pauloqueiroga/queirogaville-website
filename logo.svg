@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <!-- Background shape -->
+  <path d="M 20 50 Q 35 20, 50 50 T 80 50" fill="none" stroke="#3498DB" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Q letter stylized -->
+  <g transform="translate(30, 50)">
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#2C3E50" stroke-width="3"/>
+    <line x1="12" y1="12" x2="20" y2="20" stroke="#1ABC9C" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Text -->
+  <text x="100" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="36" font-weight="300" fill="#2C3E50">
+    Queirogaville
+  </text>
+</svg>
